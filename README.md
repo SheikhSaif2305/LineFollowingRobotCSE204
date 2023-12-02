@@ -94,7 +94,7 @@ const int irPins[5] = {A0, A1, A2, A3, A4};
 1. `setup()`: Initializes the robot's components.
 2. `loop()`: Continuously executes line following and obstacle detection logic.
 3. `line_follow()`: Implements the PID-based line following algorithm.
-4. `ustad_samne_plastic()`: Stops the motors and indicates obstacle detection.
+4. `ustad_samne_plastic()`: Stops the motors and indicates obstacle detection. > this feature is commented. 
 5. `readSensor()`: Reads values from infrared sensors and calculates the error.
 6. `wheel()`: Controls the motor speed based on input values.
 
