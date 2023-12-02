@@ -42,7 +42,7 @@ This Arduino sketch implements the logic for a line-following robot using infrar
    ```bash
    git clone https://github.com/SheikhSaif2305/LineFollowingRobotCSE204.git
 2.  Open the Arduino IDE.
-3.  Load the **line_following_robot.ino** sketch.
+3.  Load the **204lineFollower.ino** sketch.
 4.  Install the **NewPing library** if not already installed. ([NewPing Library Download Link](https://www.arduino.cc/reference/en/libraries/newping/)).
 5.  Connect your Arduino board to the computer and upload the sketch.
 
